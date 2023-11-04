@@ -1,0 +1,93 @@
+.home-page .nav {
+    height: 84px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1448px;
+  }
+  
+  .home-page .overlap-10 {
+    -webkit-backdrop-filter: blur(57px) brightness(100%);
+    backdrop-filter: blur(57px) brightness(100%);
+    background-color: #fff4e4;
+    height: 84px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .home-page .overlap-11 {
+    height: 39px;
+    left: 631px;
+    position: absolute;
+    top: 29px;
+    width: 83px;
+  }
+  
+  .home-page .selected-menu {
+    background-color: #113946;
+    border-radius: 15px;
+    height: 5px;
+    left: 0;
+    position: absolute;
+    top: 34px;
+    width: 83px;
+  }
+  
+  .home-page .text-wrapper-18 {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    left: 3px;
+    letter-spacing: 1.08px;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .home-page .text-wrapper-19 {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    left: 753px;
+    letter-spacing: 1.08px;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+  }
+  
+  .home-page .text-wrapper-20 {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    left: 874px;
+    letter-spacing: 1.08px;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+  }
+  
+  home-page .text-wrapper-21 {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    left: 1130px;
+    letter-spacing: 1.08px;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+  }
+  
+  .home-page .login-button-2 {
+    all: unset;
+    box-sizing: border-box;
+    height: 48px;
+    left: 1270px;
+    position: absolute;
+    top: 22px;
+    width: 130px;
+  }
+  

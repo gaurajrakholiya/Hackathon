@@ -1,0 +1,863 @@
+.home-page {
+  background-color: #fff4e4;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-page .div {
+  background-color: #fff4e4;
+  height: 2471px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.home-page .available-sport {
+  height: 606px;
+  left: 248px;
+  position: absolute;
+  top: 1509px;
+  width: 964px;
+}
+
+.home-page .title {
+  height: 64px;
+  left: 374px;
+  position: absolute;
+  top: 0;
+  width: 309px;
+}
+
+.home-page .rectangle {
+  background-color: #113946;
+  border-radius: 10px;
+  height: 12px;
+  left: 38px;
+  position: absolute;
+  top: 52px;
+  width: 223px;
+}
+
+.home-page .text-wrapper {
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 36px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 1.62px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.home-page .cricket {
+  height: 494px;
+  left: 0;
+  position: absolute;
+  top: 112px;
+  width: 984px;
+}
+
+.home-page .overlap {
+  background-color: #ead7bb;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  height: 161px;
+  left: 198px;
+  position: absolute;
+  top: 0;
+  width: 171px;
+}
+
+.home-page .sport {
+  height: 100px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 104px;
+}
+
+.home-page .overlap-group {
+  background-color: #ead7bb;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  height: 161px;
+  left: 397px;
+  position: absolute;
+  top: 0;
+  width: 171px;
+}
+
+.home-page .img {
+  height: 100px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 104px;
+}
+
+.home-page .sport-wrapper {
+  background-color: #ead7bb;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  height: 161px;
+  left: 595px;
+  position: absolute;
+  top: 0;
+  width: 171px;
+}
+
+.home-page .img-wrapper {
+  background-color: #ead7bb;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  height: 161px;
+  left: 793px;
+  position: absolute;
+  top: 0;
+  width: 171px;
+}
+
+.home-page .sport-2 {
+  height: 98px;
+  left: 30px;
+  position: absolute;
+  top: 25px;
+  width: 102px;
+}
+
+.home-page .overlap-2 {
+  background-color: #ead7bb;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  height: 161px;
+  left: 0;
+  position: absolute;
+  top: 273px;
+  width: 171px;
+}
+
+.home-page .sport-3 {
+  height: 100px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 104px;
+}
+
+.home-page .overlap-3 {
+  background-color: #ead7bb;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  height: 161px;
+  left: 198px;
+  position: absolute;
+  top: 273px;
+  width: 171px;
+}
+
+.home-page .overlap-4 {
+  background-color: #ead7bb;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  height: 161px;
+  left: 397px;
+  position: absolute;
+  top: 273px;
+  width: 171px;
+}
+
+.home-page .sport-4 {
+  height: 100px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 104px;
+}
+
+.home-page .overlap-5 {
+  background-color: #ead7bb;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  height: 161px;
+  left: 595px;
+  position: absolute;
+  top: 273px;
+  width: 171px;
+}
+
+.home-page .overlap-group-2 {
+  background-color: #ead7bb;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  height: 161px;
+  left: 793px;
+  position: absolute;
+  top: 273px;
+  width: 171px;
+}
+
+.home-page .overlap-6 {
+  background-color: #ead7bb;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  height: 161px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 171px;
+}
+
+.home-page .text-wrapper-2 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 21px;
+  letter-spacing: 1.12px;
+  line-height: normal;
+  position: absolute;
+  top: 173px;
+  width: 110px;
+}
+
+.home-page .text-wrapper-3 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 202px;
+  letter-spacing: 1.12px;
+  line-height: normal;
+  position: absolute;
+  top: 173px;
+  width: 163px;
+}
+
+.home-page .text-wrapper-4 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 419px;
+  letter-spacing: 1.12px;
+  line-height: normal;
+  position: absolute;
+  top: 173px;
+  width: 125px;
+}
+
+.home-page .text-wrapper-5 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 821px;
+  letter-spacing: 1.12px;
+  line-height: normal;
+  position: absolute;
+  top: 173px;
+  width: 94px;
+}
+
+.home-page .text-wrapper-6 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 21px;
+  letter-spacing: 1.12px;
+  line-height: normal;
+  position: absolute;
+  top: 453px;
+  width: 105px;
+}
+
+.home-page .text-wrapper-7 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 186px;
+  letter-spacing: 1.12px;
+  line-height: normal;
+  position: absolute;
+  top: 453px;
+  width: 190px;
+}
+
+.home-page .text-wrapper-8 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 430px;
+  letter-spacing: 1.12px;
+  line-height: normal;
+  position: absolute;
+  top: 453px;
+  width: 101px;
+}
+
+.home-page .text-wrapper-9 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 595px;
+  letter-spacing: 1.12px;
+  line-height: normal;
+  position: absolute;
+  top: 453px;
+  width: 171px;
+}
+
+.home-page .text-wrapper-10 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 822px;
+  letter-spacing: 1.12px;
+  line-height: normal;
+  position: absolute;
+  top: 453px;
+  width: 113px;
+}
+
+.home-page .text-wrapper-11 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 25px;
+  font-weight: 500;
+  left: 601px;
+  letter-spacing: 1.12px;
+  line-height: normal;
+  position: absolute;
+  top: 173px;
+  width: 153px;
+}
+
+.home-page .coach {
+  height: 564px;
+  left: 112px;
+  position: absolute;
+  top: 873px;
+  width: 1217px;
+}
+
+.home-page .overlap-7 {
+  background-image: url('./background.svg');
+  background-size: 100% 100%;
+  height: 580px;
+  left: -8px;
+  position: relative;
+  top: -8px;
+  width: 1231px;
+}
+
+.home-page .overlap-group-wrapper {
+  height: 350px;
+  left: 462px;
+  position: absolute;
+  top: 164px;
+  width: 296px;
+}
+
+.home-page .overlap-group-3 {
+  background-color: #bca37f78;
+  border: 2px solid;
+  border-color: #201b15;
+  border-radius: 25px;
+  height: 350px;
+  position: relative;
+  width: 294px;
+}
+
+.home-page .coach-2 {
+  height: 272px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 227px;
+}
+
+.home-page .alex-ferguson {
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 76px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 296px;
+  width: 151px;
+}
+
+.home-page .span {
+  font-weight: 600;
+}
+
+.home-page .text-wrapper-12 {
+  font-family: "Inter-Regular", Helvetica;
+}
+
+.home-page .overlap-wrapper {
+  height: 350px;
+  left: 810px;
+  position: absolute;
+  top: 164px;
+  width: 296px;
+}
+
+.home-page .rahul-dravid-cricket {
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 79px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 297px;
+  width: 134px;
+}
+
+.home-page .coach-3 {
+  height: 272px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 227px;
+}
+
+.home-page .overlap-8 {
+  background-color: #bca37f78;
+  border: 2px solid;
+  border-color: #201b15;
+  border-radius: 25px;
+  height: 350px;
+  left: 110px;
+  position: absolute;
+  top: 164px;
+  width: 294px;
+}
+
+.home-page .kylin-munoz {
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 296px;
+  width: 129px;
+}
+
+.home-page .title-2 {
+  height: 58px;
+  left: 492px;
+  position: absolute;
+  top: 66px;
+  width: 250px;
+}
+
+.home-page .rectangle-2 {
+  background-color: #113946;
+  border-radius: 10px;
+  height: 11px;
+  left: 26px;
+  position: absolute;
+  top: 47px;
+  width: 201px;
+}
+
+.home-page .text-wrapper-13 {
+  color: #000000;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 248px;
+}
+
+.home-page .main-part {
+  height: 617px;
+  left: 54px;
+  position: absolute;
+  top: 120px;
+  width: 1435px;
+}
+
+.home-page .overlap-9 {
+  height: 636px;
+  position: relative;
+  top: -19px;
+  width: 1386px;
+}
+
+.home-page .photo {
+  height: 586px;
+  left: 379px;
+  position: absolute;
+  top: 0;
+  width: 1007px;
+}
+
+.home-page .content {
+  height: 511px;
+  left: 0;
+  position: absolute;
+  top: 125px;
+  width: 391px;
+}
+
+.home-page .login-button {
+  all: unset;
+  box-sizing: border-box;
+  height: 48px;
+  left: 153px;
+  position: absolute;
+  top: 463px;
+  width: 154px;
+}
+
+.home-page .div-wrapper {
+  background-color: #113946;
+  border-radius: 12px;
+  height: 48px;
+  position: relative;
+  width: 152px;
+}
+
+.home-page .text-wrapper-14 {
+  color: #fff4e4;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 29px;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+}
+
+.home-page .button {
+  all: unset;
+  box-sizing: border-box;
+  height: 48px;
+  left: 12px;
+  position: absolute;
+  top: 463px;
+  width: 130px;
+}
+
+.home-page .overlap-group-4 {
+  background-color: #113946;
+  border-radius: 12px;
+  height: 48px;
+  position: relative;
+  width: 128px;
+}
+
+.home-page .text-wrapper-15 {
+  color: #fff4e4;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 31px;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+}
+
+.home-page .it-s-never-been {
+  color: transparent;
+  font-family: "Lexend-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 178px;
+  width: 359px;
+}
+
+.home-page .text-wrapper-16 {
+  color: #000000d9;
+}
+
+.home-page .text-wrapper-17 {
+  color: #e74748;
+  font-family: "Lexend-SemiBold", Helvetica;
+  font-weight: 600;
+}
+
+.home-page .welcome-to-coach {
+  color: #113946;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.home-page .nav {
+  height: 84px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1448px;
+}
+
+.home-page .overlap-10 {
+  -webkit-backdrop-filter: blur(57px) brightness(100%);
+  backdrop-filter: blur(57px) brightness(100%);
+  background-color: #fff4e4;
+  height: 84px;
+  position: relative;
+  width: 1440px;
+}
+
+.home-page .overlap-11 {
+  height: 39px;
+  left: 631px;
+  position: absolute;
+  top: 29px;
+  width: 83px;
+}
+
+.home-page .selected-menu {
+  background-color: #113946;
+  border-radius: 15px;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 34px;
+  width: 83px;
+}
+
+.home-page .text-wrapper-18 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 3px;
+  letter-spacing: 1.08px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.home-page .text-wrapper-19 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 753px;
+  letter-spacing: 1.08px;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+}
+
+.home-page .text-wrapper-20 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 874px;
+  letter-spacing: 1.08px;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+}
+
+.home-page .text-wrapper-21 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 1130px;
+  letter-spacing: 1.08px;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+}
+
+.home-page .login-button-2 {
+  all: unset;
+  box-sizing: border-box;
+  height: 48px;
+  left: 1270px;
+  position: absolute;
+  top: 22px;
+  width: 130px;
+}
+
+.home-page .logo {
+  height: 53px;
+  left: 36px;
+  position: absolute;
+  top: 28px;
+  width: 321px;
+}
+
+.home-page .overlap-12 {
+  height: 53px;
+  left: 86px;
+  position: absolute;
+  top: 0;
+  width: 233px;
+}
+
+.home-page .c-ACHMATE {
+  color: #113946;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 34px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 1.19px;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  width: 233px;
+}
+
+.home-page .ball {
+  height: 47px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.home-page .overlap-13 {
+  height: 44px;
+  left: -1px;
+  position: absolute;
+  top: 1px;
+  width: 79px;
+}
+
+.home-page .vector {
+  height: 43px;
+  left: 19px;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.home-page .vector-2 {
+  height: 43px;
+  left: 43px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.home-page .vector-3 {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 30px;
+}
+
+.home-page .footer {
+  background-color: transparent;
+  height: 222px;
+  left: 0;
+  position: absolute;
+  top: 2249px;
+  width: 1448px;
+}
+
+.home-page .overlap-14 {
+  background-color: #113946;
+  height: 222px;
+  position: relative;
+  width: 1440px;
+}
+
+.home-page .text-wrapper-22 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 67px;
+  letter-spacing: 1.12px;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.home-page .sports-youth {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 67px;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+}
+
+.home-page .p {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 67px;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 120px;
+}
+
+.home-page .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 67px;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 159px;
+}

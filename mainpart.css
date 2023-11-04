@@ -1,0 +1,20 @@
+.main-part {
+    position: absolute;
+    width: 1440px;
+  }
+  
+  .main-part .background-3 {
+    background-color: #fff4e4;
+    height: 1043px;
+    left: 0;
+    position: absolute;
+    top: 625px;
+    width: 1440px;
+  }
+  
+  .main-part .content {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 40px;
+  }
+  

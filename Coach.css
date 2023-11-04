@@ -1,0 +1,19 @@
+.coach {
+  position: absolute;
+  width: 1440px;
+}
+
+.coach .background-2 {
+  background-color: #f0f0f0;
+  height: 583px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 1440px;
+}
+
+.coach .coach-info {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}

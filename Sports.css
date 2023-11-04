@@ -1,0 +1,18 @@
+.home-page .available-sport {
+    height: 606px;
+    left: 248px;
+    position: absolute;
+    top: 1509px;
+    width: 964px;
+  }
+  
+  .home-page .title {
+    height: 64px;
+    left: 374px;
+    position: absolute;
+    top: 0;
+    width: 309px;
+  }
+  
+  /* Add styles for other elements within the sports component */
+  
